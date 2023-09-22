@@ -1,0 +1,68 @@
+Sure! Here's an example code snippet to demonstrate how you can integrate Firebase Cloud Messaging (FCM) and Cloud Functions in your Flutter application:
+
+1. Flutter Client-Side Code:
+
+```dart
+import 'package:firebase_messaging/firebase_messaging.dart';
+
+class BackgroundTaskManager {
+  final FirebaseMessaging _firebaseMessaging = FirebaseMessaging.instance;
+
+  Future<void> sendBackgroundTaskMessage() async {
+    try {
+      await _firebaseMessaging.requestPermission();
+      final token = await _firebaseMessaging.getToken();
+
+      await _firebaseMessaging.send({
+        'to': token,
+        'data': {
+          'task': 'increaseCounters',
+          'year': AppHelper.currentYear,
+          'field': 'usersCount',
+        },
+      });
+    } catch (e) {
+      // Handle any error that occurred while sending the FCM message
+      print('Failed to send FCM message: $e');
+    }
+  }
+}
+```
+
+In this code snippet, the `sendBackgroundTaskMessage` function requests permission from the user to receive notifications, retrieves the FCM token, and sends a data message containing the task information (`increaseCounters` with the specified year and field) to trigger the background task.
+
+2. Cloud Function (Node.js) Code:
+
+```javascript
+exports.increaseCountersBackgroundTask = functions.messaging.onMessage(async (message) => {
+  const data = message.data;
+  const task = data.task;
+  
+  if (task === 'increaseCounters') {
+    const year = data.year;
+    const field = data.field;
+
+    // Your code to increase counters in Firestore
+    await firestore.collection('appStatistics').doc(year).update({
+      [field]: admin.firestore.FieldValue.increment(1),
+    });
+
+    console.log(`Background task executed: increaseCounters for year ${year}, field ${field}`);
+  }
+});
+```
+
+In this Cloud Function code, the `increaseCountersBackgroundTask` function is triggered when the Flutter client sends an FCM message. It checks for the specific task (`increaseCounters`) and performs the necessary operations, such as incrementing the counters in the Firestore collection.
+
+Make sure to deploy the Cloud Function using the Firebase CLI, and ensure that you have the necessary Firebase and Firestore configurations in place.
+
+Remember to adjust the code according to your specific requirements and project structure. This example provides a starting point for integrating FCM and Cloud Functions to execute background tasks in your Flutter application.
+
+
+
+I/flutter ( 2938):  Time: 10ms
+I/flutter ( 2938):  Time: 447ms
+I/flutter ( 2938):  Time: 34ms
+I/flutter ( 2938):  Time: 1577ms
+I/flutter ( 2938):  Time: 963ms
+I/flutter ( 2938):  Time: 4ms

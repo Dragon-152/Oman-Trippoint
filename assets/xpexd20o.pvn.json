@@ -1,0 +1,380 @@
+[
+ {
+  "Region Code": 1,
+  "Region Name": "محافظة مسقط",
+  "Wilayat Code": 1,
+  "Wilayat Name": "مسـقط"
+ },
+ {
+  "Region Code": 1,
+  "Region Name": "محافظة مسقط",
+  "Wilayat Code": 2,
+  "Wilayat Name": "السـيب"
+ },
+ {
+  "Region Code": 1,
+  "Region Name": "محافظة مسقط",
+  "Wilayat Code": 3,
+  "Wilayat Name": "مـطرح"
+ },
+ {
+  "Region Code": 1,
+  "Region Name": "محافظة مسقط",
+  "Wilayat Code": 4,
+  "Wilayat Name": "بوشـر"
+ },
+ {
+  "Region Code": 1,
+  "Region Name": "محافظة مسقط",
+  "Wilayat Code": 5,
+  "Wilayat Name": "العامـرات"
+ },
+ {
+  "Region Code": 1,
+  "Region Name": "محافظة مسقط",
+  "Wilayat Code": 6,
+  "Wilayat Name": "قريات"
+ },
+ {
+  "Region Code": 2,
+  "Region Name": "محافظة شمال الباطنه",
+  "Wilayat Code": 7,
+  "Wilayat Name": "صحار"
+ },
+ {
+  "Region Code": 2,
+  "Region Name": "محافظة شمال الباطنه",
+  "Wilayat Code": 9,
+  "Wilayat Name": "شناص"
+ },
+ {
+  "Region Code": 2,
+  "Region Name": "محافظة شمال الباطنه",
+  "Wilayat Code": 10,
+  "Wilayat Name": "لوى"
+ },
+ {
+  "Region Code": 2,
+  "Region Name": "محافظة شمال الباطنه",
+  "Wilayat Code": 11,
+  "Wilayat Name": "صحم"
+ },
+ {
+  "Region Code": 2,
+  "Region Name": "محافظة شمال الباطنه",
+  "Wilayat Code": 12,
+  "Wilayat Name": "الخابورة"
+ },
+ {
+  "Region Code": 2,
+  "Region Name": "محافظة شمال الباطنه",
+  "Wilayat Code": 13,
+  "Wilayat Name": "السويق"
+ },
+ {
+  "Region Code": 3,
+  "Region Name": "محافظة مسندم",
+  "Wilayat Code": 19,
+  "Wilayat Name": "خصب"
+ },
+ {
+  "Region Code": 3,
+  "Region Name": "محافظة مسندم",
+  "Wilayat Code": 20,
+  "Wilayat Name": "بخاء"
+ },
+ {
+  "Region Code": 3,
+  "Region Name": "محافظة مسندم",
+  "Wilayat Code": 21,
+  "Wilayat Name": "دبا"
+ },
+ {
+  "Region Code": 3,
+  "Region Name": "محافظة مسندم",
+  "Wilayat Code": 22,
+  "Wilayat Name": "مدحاء"
+ },
+ {
+  "Region Code": 4,
+  "Region Name": "محافظة البريمي",
+  "Wilayat Code": 23,
+  "Wilayat Name": "البريمي"
+ },
+ {
+  "Region Code": 4,
+  "Region Name": "محافظة البريمي",
+  "Wilayat Code": 25,
+  "Wilayat Name": "محضة"
+ },
+ {
+  "Region Code": 4,
+  "Region Name": "محافظة البريمي",
+  "Wilayat Code": 61,
+  "Wilayat Name": "السنينة"
+ },
+ {
+  "Region Code": 5,
+  "Region Name": "محافظة الظاهرة",
+  "Wilayat Code": 24,
+  "Wilayat Name": "عبري"
+ },
+ {
+  "Region Code": 5,
+  "Region Name": "محافظة الظاهرة",
+  "Wilayat Code": 26,
+  "Wilayat Name": "ينقل"
+ },
+ {
+  "Region Code": 5,
+  "Region Name": "محافظة الظاهرة",
+  "Wilayat Code": 27,
+  "Wilayat Name": "ضنك"
+ },
+ {
+  "Region Code": 6,
+  "Region Name": "محافظة الدخلية",
+  "Wilayat Code": 28,
+  "Wilayat Name": "نزوى"
+ },
+ {
+  "Region Code": 6,
+  "Region Name": "محافظة الدخلية",
+  "Wilayat Code": 29,
+  "Wilayat Name": "سمائل"
+ },
+ {
+  "Region Code": 6,
+  "Region Name": "محافظة الدخلية",
+  "Wilayat Code": 30,
+  "Wilayat Name": "بهلاء"
+ },
+ {
+  "Region Code": 6,
+  "Region Name": "محافظة الدخلية",
+  "Wilayat Code": 31,
+  "Wilayat Name": "أدم"
+ },
+ {
+  "Region Code": 6,
+  "Region Name": "محافظة الدخلية",
+  "Wilayat Code": 32,
+  "Wilayat Name": "الحمراء"
+ },
+ {
+  "Region Code": 6,
+  "Region Name": "محافظة الدخلية",
+  "Wilayat Code": 33,
+  "Wilayat Name": "منح"
+ },
+ {
+  "Region Code": 6,
+  "Region Name": "محافظة الدخلية",
+  "Wilayat Code": 34,
+  "Wilayat Name": "إزكي"
+ },
+ {
+  "Region Code": 6,
+  "Region Name": "محافظة الدخلية",
+  "Wilayat Code": 35,
+  "Wilayat Name": "بدبد"
+ },
+ {
+  "Region Code": 6,
+  "Region Name": "محافظة الدخلية",
+  "Wilayat Code": 62,
+  "Wilayat Name": "الجبل الاخضر"
+ },
+ {
+  "Region Code": 7,
+  "Region Name": "محافظة شمال الشرقية",
+  "Wilayat Code": 37,
+  "Wilayat Name": "إبراء"
+ },
+ {
+  "Region Code": 7,
+  "Region Name": "محافظة شمال الشرقية",
+  "Wilayat Code": 38,
+  "Wilayat Name": "بدية"
+ },
+ {
+  "Region Code": 7,
+  "Region Name": "محافظة شمال الشرقية",
+  "Wilayat Code": 39,
+  "Wilayat Name": "القابل"
+ },
+ {
+  "Region Code": 7,
+  "Region Name": "محافظة شمال الشرقية",
+  "Wilayat Code": 40,
+  "Wilayat Name": "المضيبي"
+ },
+ {
+  "Region Code": 7,
+  "Region Name": "محافظة شمال الشرقية",
+  "Wilayat Code": 41,
+  "Wilayat Name": "دماء والطائيين"
+ },
+ {
+  "Region Code": 7,
+  "Region Name": "محافظة شمال الشرقية",
+  "Wilayat Code": 45,
+  "Wilayat Name": "وادي بني خالد"
+ },
+ {
+  "Region Code": 7,
+  "Region Name": "محافظة شمال الشرقية",
+  "Wilayat Code": 63,
+  "Wilayat Name": "سناو"
+ },
+ {
+  "Region Code": 8,
+  "Region Name": "محافظة الوسطى",
+  "Wilayat Code": 47,
+  "Wilayat Name": "هيماء"
+ },
+ {
+  "Region Code": 8,
+  "Region Name": "محافظة الوسطى",
+  "Wilayat Code": 48,
+  "Wilayat Name": "محوت"
+ },
+ {
+  "Region Code": 8,
+  "Region Name": "محافظة الوسطى",
+  "Wilayat Code": 49,
+  "Wilayat Name": "الدقم"
+ },
+ {
+  "Region Code": 8,
+  "Region Name": "محافظة الوسطى",
+  "Wilayat Code": 50,
+  "Wilayat Name": "الجازر"
+ },
+ {
+  "Region Code": 9,
+  "Region Name": "محافظة ظفار",
+  "Wilayat Code": 51,
+  "Wilayat Name": "صلالة"
+ },
+ {
+  "Region Code": 9,
+  "Region Name": "محافظة ظفار",
+  "Wilayat Code": 52,
+  "Wilayat Name": "ثـمـريت"
+ },
+ {
+  "Region Code": 9,
+  "Region Name": "محافظة ظفار",
+  "Wilayat Code": 53,
+  "Wilayat Name": "طاقة"
+ },
+ {
+  "Region Code": 9,
+  "Region Name": "محافظة ظفار",
+  "Wilayat Code": 54,
+  "Wilayat Name": "مرباط"
+ },
+ {
+  "Region Code": 9,
+  "Region Name": "محافظة ظفار",
+  "Wilayat Code": 55,
+  "Wilayat Name": "سدح"
+ },
+ {
+  "Region Code": 9,
+  "Region Name": "محافظة ظفار",
+  "Wilayat Code": 56,
+  "Wilayat Name": "رخيوت"
+ },
+ {
+  "Region Code": 9,
+  "Region Name": "محافظة ظفار",
+  "Wilayat Code": 57,
+  "Wilayat Name": "ضلكوت"
+ },
+ {
+  "Region Code": 9,
+  "Region Name": "محافظة ظفار",
+  "Wilayat Code": 58,
+  "Wilayat Name": "مقشن"
+ },
+ {
+  "Region Code": 9,
+  "Region Name": "محافظة ظفار",
+  "Wilayat Code": 59,
+  "Wilayat Name": "شليم وجزر الحلانيات"
+ },
+ {
+  "Region Code": 9,
+  "Region Name": "محافظة ظفار",
+  "Wilayat Code": 60,
+  "Wilayat Name": "المزيونة"
+ },
+ {
+  "Region Code": 10,
+  "Region Name": "محافظة جنوب الباطنه",
+  "Wilayat Code": 8,
+  "Wilayat Name": "الرستاق"
+ },
+ {
+  "Region Code": 10,
+  "Region Name": "محافظة جنوب الباطنه",
+  "Wilayat Code": 14,
+  "Wilayat Name": "نخل"
+ },
+ {
+  "Region Code": 10,
+  "Region Name": "محافظة جنوب الباطنه",
+  "Wilayat Code": 15,
+  "Wilayat Name": "وادي المعاول"
+ },
+ {
+  "Region Code": 10,
+  "Region Name": "محافظة جنوب الباطنه",
+  "Wilayat Code": 16,
+  "Wilayat Name": "العوابي"
+ },
+ {
+  "Region Code": 10,
+  "Region Name": "محافظة جنوب الباطنه",
+  "Wilayat Code": 17,
+  "Wilayat Name": "المصنعة"
+ },
+ {
+  "Region Code": 10,
+  "Region Name": "محافظة جنوب الباطنه",
+  "Wilayat Code": 18,
+  "Wilayat Name": "بركاء"
+ },
+ {
+  "Region Code": 11,
+  "Region Name": "محافظة جنوب الشرقيه",
+  "Wilayat Code": 36,
+  "Wilayat Name": "صور"
+ },
+ {
+  "Region Code": 11,
+  "Region Name": "محافظة جنوب الشرقيه",
+  "Wilayat Code": 42,
+  "Wilayat Name": "الكامل والوافي"
+ },
+ {
+  "Region Code": 11,
+  "Region Name": "محافظة جنوب الشرقيه",
+  "Wilayat Code": 43,
+  "Wilayat Name": "جعلان بني بو علي"
+ },
+ {
+  "Region Code": 11,
+  "Region Name": "محافظة جنوب الشرقيه",
+  "Wilayat Code": 44,
+  "Wilayat Name": "جعلان بني بو حسن"
+ },
+ {
+  "Region Code": 11,
+  "Region Name": "محافظة جنوب الشرقيه",
+  "Wilayat Code": 46,
+  "Wilayat Name": "مصيرة"
+ }
+]
